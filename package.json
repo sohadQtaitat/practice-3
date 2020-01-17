@@ -1,0 +1,19 @@
+{
+  "name": "practice-3",
+  "version": "1.0.0",
+  "description": "301 Practice Assignment 3 Q1:How long is the array returned by .map()? .filter()? .map():the resulting array will always be the same length as the original array. .filter(): filter will only return elements where the function you specify returns a value of true for each element passed to the function.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohadQtaitat/practice-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohadQtaitat/practice-3/issues"
+  },
+  "homepage": "https://github.com/sohadQtaitat/practice-3#readme"
+}
